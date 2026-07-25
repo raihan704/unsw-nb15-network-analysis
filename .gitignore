@@ -1,0 +1,5 @@
+# Data (too large / redistribute-restricted — see README for source)
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
